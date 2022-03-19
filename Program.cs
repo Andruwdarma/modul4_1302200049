@@ -7,10 +7,10 @@ namespace modul4_1302200049
     {
         static void Main(string[] args)
         {
-            SimpleDataBase<double> db = new SimpleDataBase<double>();
-            db.AddNewData(12);
-            db.AddNewData(34);
-            db.AddNewData(56);
+            SimpleDataBase<long> db = new SimpleDataBase<long>();
+            db.AddNewData(13);
+            db.AddNewData(00);
+            db.AddNewData(02);
             db.PrintAllData();
         }
     }
