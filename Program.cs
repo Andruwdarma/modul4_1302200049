@@ -7,7 +7,7 @@ namespace modul4_1302200049
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(Penjumlahan.JumlahTigaAngka<long>(12, 34, 56));
+            Console.WriteLine(Penjumlahan.JumlahTigaAngka<long>(13, 00, 02));
         }
     }
 
